@@ -43,16 +43,16 @@ Lee facturas y remitos de proveedores con IA, controla totales, duplicados y aum
 <tr>
 <td width="50%" valign="top">
 
-**🎮 [Campus Backend Developer](https://github.com/fede-villon/CampusBackendDeveloper)**<br>
-App web gamificada para aprender backend con misiones, niveles y ejercicios de Python en el navegador.<br><br>
-<code>PWA</code> <code>JavaScript</code> <code>Pyodide</code>
+**💈 [Turnero](https://github.com/fede-villon/turnero)**<br>
+Turnos online para barberías: web de reservas desde el celular y panel del local con agenda, cobro, recordatorios por WhatsApp y números.<br><br>
+<code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>UX</code>
 
 </td>
 <td width="50%" valign="top">
 
-**🏋️ [Training App](https://github.com/fede-villon/training-app)**<br>
-App de entrenamiento y seguimiento que funciona sin conexión y guarda los datos en el dispositivo.<br><br>
-<code>PWA</code> <code>JavaScript</code> <code>IndexedDB</code>
+**🎮 [Campus Backend Developer](https://github.com/fede-villon/CampusBackendDeveloper)**<br>
+App web gamificada para aprender backend con misiones, niveles y ejercicios de Python en el navegador.<br><br>
+<code>PWA</code> <code>JavaScript</code> <code>Pyodide</code>
 
 </td>
 </tr>

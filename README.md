@@ -36,7 +36,7 @@ Stock, caja y reportes para almacenes de barrio: alertas de stock bajo y vencimi
 
 **📥 [Bandeja](https://github.com/fede-villon/bandeja)**<br>
 Lee facturas y remitos de proveedores con IA, controla totales, duplicados y aumentos de precio, y arma panel, Excel y resumen semanal.<br><br>
-<code>Python</code> <code>Claude API</code> <code>SQLite</code> <code>Excel</code>
+<code>Python</code> <code>IA local (Ollama)</code> <code>SQLite</code> <code>Excel</code>
 
 </td>
 </tr>
